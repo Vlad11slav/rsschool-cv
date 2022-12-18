@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(170, 175, 181);
+}
+.nav {font-size: 18px;
+    font-weight: 300;
+  color: rgb(31, 30, 30)
+}
+.nav-list {list-style: none;
+}
+.main { display: flex;
+  flex-wrap: wrap;}
+.footer {
+    background-color: rgb(173, 178, 184);
+}
